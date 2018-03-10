@@ -1,5 +1,7 @@
 .. _contributing.docs:
 
+> 珠海GDG Pandas 冲刺活动专用分支
+
 Contributing to the documentation
 =================================
 
